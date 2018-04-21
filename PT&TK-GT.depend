@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1494143267 source:c:\users\sihc pro\desktop\da pt&tk-gt\pt&tk-gt\main.cpp
+	"BigInteger.h"
+
+1494145311 c:\users\sihc pro\desktop\da pt&tk-gt\pt&tk-gt\biginteger.h
+	<iostream>
+	<fstream>
+	<string.h>
+
